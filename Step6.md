@@ -1,5 +1,5 @@
 ﻿
-# STEP 6 - Fuctions
+# STEP 6 - Functions
 1. [Wstęp](#wstep) 
 2. [Definicja](#definicja)
 3. [Prototypy](#prototypy)
