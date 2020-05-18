@@ -1,5 +1,5 @@
 ﻿
-# STEP 2 - Programowanie obiektowe cz.1
+# STEP 8 - Programowanie obiektowe cz.1
 1. [Czym jest programowanie obiektowe](#oop) 
 2. [Klasa i obiekt](#klasaobiekt)
 3. [Definicja klasy i tworzenie obiektów](#definicja)
@@ -615,13 +615,14 @@ Player::Player(string _name)
 <a name="zadanie2"></a>
 ### Zadanie 2
 
-Przygotuj klase która pomoże nam 'zarzadzac' naszymi zadaniami.
-* Stworz klase Zadania która będzie miała za zadanie wyświetlać menu
-z dostępnych zrobionych zadan oraz mozliwosc uruchomienia kazdego zadania
-    * Klasa zadania
-      * Posiada atrybut klasy Zadanie
-        * Klasa zadanie nie posiada atrybutow
-        * posiada metode start ktora uruchamia zadanie 1 z tego etapu
-      * Posiada konstruktor bezparametryczny który inicjuje atrybut zadanie
-      * Posiada metode wyświetlającą menu 
-      * Posiada metode uruchamiającą zadanie 2 
+Przygotuj program który umożliwi nam wykonywać podstawowe operacje na macierzach i wektorach. Zapisz schemat przedstawiający klasy, ich
+atrybuty i metody. (dodawanie, odejmowanie, mnozenie, mnozenie skalarne macierzy i wektorow, odwracanie macierzy). Napisz klase pomocniczą
+która tworzy macierz lub wektor o wielkosci X Y wypełnioną losowymi wartościami 0-10
+
+---
+
+<a name="zadanie3"></a>
+### Zadanie 3 
+
+Napisz trzy klasy reprezentujace figury geometryczne koło, kwadrat, trójkąt.
+Dodaj do nich metody obliczające pole i obwód.
